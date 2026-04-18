@@ -6,4 +6,4 @@ applyTo: "src/static/**/*.html,src/static/**/*.css,src/static/**/*.js"
 
 - Use accessibility attributes (alt text, `aria-label`, `aria-labelledby`) and color schemes.
 - Use responsive design for compatibility with mobile devices.
-- Validate HTML structure and semantic elements
+- Validate HTML structure and semantic elements.
